@@ -1,0 +1,7 @@
+.Header-Img-P{
+display: flex;
+}
+img{
+ display: flex;
+ width: 50rem;
+}
