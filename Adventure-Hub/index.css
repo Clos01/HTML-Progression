@@ -1,7 +1,8 @@
 .Header-Img-P{
 display: flex;
 }
-img{
+.Strawhat-crew-img{
  display: flex;
- width: 50rem;
+ width: 20;
+ background-color: brown;
 }
